@@ -37,18 +37,19 @@ ITO 경쟁력 강화 - 주기적 업무 관리
 | Java | SpringBoot |
 | :---: | :---: |
 | <img width="50" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231357444-f19f60b4-b037-4243-9fd0-7335f805e1ab.png"> | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356152-2eb8bc40-a505-41db-8b48-34cb08307872.png"> | 
-| Java 17 | 2.7.x |
+| Java 17 | 3.3.3 |
 
 
 | JavaScript | React | Node |
 | :---: | :---: | :---: |
 | <img width="50" alt="Untitled 1" src="https://github.com/user-attachments/assets/7c8eec34-2769-4bb9-b07d-e57c8cb19951"> | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356159-a1ed8d6a-1945-4c86-8a82-41295fad3d40.png"> | <img width="60" alt="Untitled 1" src="https://user-images.githubusercontent.com/80504636/231356163-4ab93b84-6ca2-4872-a068-3d6b1d89d7e8.png"> |
-| ES9 | 18.2.0 | v20.17.0 |
+| ES9 | 18.3.5 | v20.17.0 |
 
 
 | PostgreSQL |
 | :---: |
 | <img width="60" alt="Untitled 1" src="https://github.com/user-attachments/assets/ddaa3bcc-5140-497f-8db9-441f26369419"> |
+|9.2.24|
 
 | Docker | Docker Compose | 
 | :---: | :---: |
